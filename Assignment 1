@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>THE.PRISKY</title>
+    </head>
+    <body>
+        <div id="personname">
+            <h3> NAME</h3>
+            <input type="text" placeholder="Search">
+        </div>
+        <div><img src="logo.jpg"></div>
+        <div>
+            <img src="picture.jpg" width="500px">
+        </div>
+        <div>
+            <ul>
+                <li><a>Home</a></li>
+                <li><a>About Me</a></li>
+                <li><a>Easy DIYS</a></li>
+                <li><a>Amazon finds</a></li>
+                <li><a>Home hacks</a></li>
+                <li><a>Contact</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
